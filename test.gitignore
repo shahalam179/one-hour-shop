@@ -1,0 +1,32 @@
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Cache / temporary files
+*.tmp
+*.cache
+*.bak
+
+# npm dependencies (if using a small node script or sass compiler)
+node_modules/
+
+# Build / dist files (if you use build tools)
+dist/
+build/
+
+# Sass cache
+.sass-cache/
+
+# Package locks (only if not needed)
+package-lock.json
+yarn.lock
